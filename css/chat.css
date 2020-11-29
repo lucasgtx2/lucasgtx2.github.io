@@ -38,9 +38,11 @@ header {
 }
 
 .agendar_horario {
+    position: absolute;
     height: 2.5rem;
     width: 2.5rem;
-    margin-left: 6rem;
+    top: 0.1rem;
+    right: 3rem;
 }
 
 .ligar_img {
